@@ -1,0 +1,5 @@
+{
+  "name": "Cambridge Writing Coach",
+  "description": "An interactive web application for students to practice Cambridge English exam writing tasks. Features AI-powered suggestions, peer-to-peer assessment, a resource bank, and gamification to make learning engaging.",
+  "requestFramePermissions": []
+}
